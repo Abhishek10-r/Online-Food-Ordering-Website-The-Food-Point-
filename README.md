@@ -3,7 +3,7 @@
 
 Some screenshots from the project
 
-![Screenshot (142)](https://www.awesomescreenshot.com/image/36340103?key=571c6be721df74a272cc208e22309629)
+![Screenshot (142)]("file:///C:/Users/Dell/Downloads/Web%20Development%20Project%20REPORT%20-%20Google%20Docs.png")
 
 
 
