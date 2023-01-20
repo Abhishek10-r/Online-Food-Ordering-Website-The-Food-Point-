@@ -3,10 +3,6 @@
 
 Some screenshots from the project
 
-![Screenshot (142)]("file:///C:/Users/Dell/Downloads/Web%20Development%20Project%20REPORT%20-%20Google%20Docs.png")
-
-
-
 
 
 ![Screenshot (143)](https://user-images.githubusercontent.com/68517660/138282991-029ba283-88d5-43e9-85b1-c151b832f8a7.png)
